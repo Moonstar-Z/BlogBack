@@ -1,9 +1,8 @@
 ---
 title: MmmmmmmmmoonStar
 tag: 序章
-categories: 生活
+categories: Life
 ---
 
 ## <center>Moonstar  Blog</center>
-
 
