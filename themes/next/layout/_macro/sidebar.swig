@@ -13,6 +13,7 @@
     {% endif %}
     <div class="sidebar-inner">
 
+      <!-- 侧边栏显示控制按钮-->
       {% set display_toc = is_post and theme.toc.enable or is_page and theme.toc.enable %}
 
       {% if display_toc and toc(page.content).length > 1 %}
