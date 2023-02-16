@@ -6,6 +6,10 @@ categories: 技术
 
 ## Git常规操作
 
+
+
+<!--more-->
+
 1、我需要统计代码提交行数
 
 ```shell
